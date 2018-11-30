@@ -1,15 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3cb3d860-862c-4eb3-93c2-2c7fa724f172" name="Default Changelist" comment="" />
+    <list default="true" id="3cb3d860-862c-4eb3-93c2-2c7fa724f172" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/front_end_pc/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/css/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/front_end_pc/css/base.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/front_end_pc/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/css/info.css" beforeDir="false" afterPath="$PROJECT_DIR$/front_end_pc/css/info.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/css/infopic.css" beforeDir="false" afterPath="$PROJECT_DIR$/front_end_pc/css/infopic.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/css/m.css" beforeDir="false" afterPath="$PROJECT_DIR$/front_end_pc/css/m.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/gbook.html" beforeDir="false" afterPath="$PROJECT_DIR$/front_end_pc/gbook.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/images/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/front_end_pc/images/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/images/top.png" beforeDir="false" afterPath="$PROJECT_DIR$/front_end_pc/images/top.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/images/wx.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/front_end_pc/images/wx.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/front_end_pc/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/info.html" beforeDir="false" afterPath="$PROJECT_DIR$/front_end_pc/info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/infopic.html" beforeDir="false" afterPath="$PROJECT_DIR$/front_end_pc/infopic.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/front_end_pc/js/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/front_end_pc/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/more.html" beforeDir="false" afterPath="$PROJECT_DIR$/front_end_pc/more.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/share.html" beforeDir="false" afterPath="$PROJECT_DIR$/front_end_pc/share.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/front_end_pc/more.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="56" column="66" selection-start-line="56" selection-start-column="66" selection-end-line="56" selection-end-column="66" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#li#0;n#c:forEach#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>杨青</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>刘锋</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/front_end_pc/about.html" />
+        <option value="$PROJECT_DIR$/front_end_pc/gbook.html" />
+        <option value="$PROJECT_DIR$/front_end_pc/index.html" />
+        <option value="$PROJECT_DIR$/front_end_pc/info.html" />
+        <option value="$PROJECT_DIR$/front_end_pc/infopic.html" />
+        <option value="$PROJECT_DIR$/front_end_pc/list.html" />
+        <option value="$PROJECT_DIR$/front_end_pc/share.html" />
+        <option value="$PROJECT_DIR$/front_end_pc/more.html" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
@@ -22,7 +79,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -30,10 +86,16 @@
               <item name="blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="blog" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="front_end_pc" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -66,24 +128,20 @@
       <option name="presentableId" value="Default" />
       <updated>1543566195848</updated>
       <workItem from="1543566197135" duration="63000" />
+      <workItem from="1543572121153" duration="519000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63000" />
+    <option name="totallyTimeSpent" value="582000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -91,14 +149,175 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/front_end_pc/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1120">
+          <caret line="39" column="42" selection-start-line="39" selection-start-column="42" selection-end-line="39" selection-end-column="42" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#form#0;n#div#2;n#aside#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#3069#3076#0" expanded="true" />
+            <element signature="e#3078#3085#0" expanded="true" />
+            <element signature="e#3203#3210#0" expanded="true" />
+            <element signature="e#3222#3229#0" expanded="true" />
+            <element signature="e#3459#3466#0" expanded="true" />
+            <element signature="e#3468#3475#0" expanded="true" />
+            <element signature="e#3490#3497#0" expanded="true" />
+            <element signature="e#3499#3506#0" expanded="true" />
+            <element signature="e#3525#3532#0" expanded="true" />
+            <element signature="e#3534#3541#0" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#main#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#3691#3697#0" expanded="true" />
+            <element signature="e#3956#3963#0" expanded="true" />
+            <element signature="e#3975#3982#0" expanded="true" />
+            <element signature="e#4212#4219#0" expanded="true" />
+            <element signature="e#4221#4228#0" expanded="true" />
+            <element signature="e#4243#4250#0" expanded="true" />
+            <element signature="e#4252#4259#0" expanded="true" />
+            <element signature="e#4278#4285#0" expanded="true" />
+            <element signature="e#4287#4294#0" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#main#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#4444#4450#0" expanded="true" />
+            <element signature="e#4642#4648#0" expanded="true" />
+            <element signature="e#4695#4701#0" expanded="true" />
+            <element signature="e#4746#4752#0" expanded="true" />
+            <element signature="e#4752#4758#0" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#0;n#p#2;n#div#0;n#main#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#4933#4937#0" expanded="true" />
+            <element signature="e#4937#4941#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front_end_pc/gbook.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2092">
+          <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#form#0;n#div#2;n#aside#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front_end_pc/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2686">
+          <caret line="38" column="43" selection-start-line="38" selection-start-column="43" selection-end-line="38" selection-end-column="43" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#form#0;n#div#2;n#aside#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front_end_pc/info.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4192">
+          <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#form#0;n#div#0;n#aside#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#4043#4049#0" expanded="true" />
+            <element signature="e#8267#8273#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front_end_pc/infopic.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6250">
+          <caret line="41" column="21" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#form#0;n#div#2;n#aside#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front_end_pc/list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2896">
+          <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#form#0;n#div#0;n#aside#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#5636#5642#0" expanded="true" />
+            <element signature="e#5642#5648#0" expanded="true" />
+            <element signature="e#5681#5687#0" expanded="true" />
+            <element signature="e#5687#5693#0" expanded="true" />
+            <element signature="e#5728#5734#0" expanded="true" />
+            <element signature="e#5734#5740#0" expanded="true" />
+            <element signature="e#5775#5781#0" expanded="true" />
+            <element signature="e#5781#5787#0" expanded="true" />
+            <element signature="e#5822#5828#0" expanded="true" />
+            <element signature="e#5828#5834#0" expanded="true" />
+            <element signature="e#5869#5875#0" expanded="true" />
+            <element signature="e#5875#5881#0" expanded="true" />
+            <element signature="e#5916#5922#0" expanded="true" />
+            <element signature="e#5922#5928#0" expanded="true" />
+            <element signature="e#5963#5969#0" expanded="true" />
+            <element signature="e#5969#5975#0" expanded="true" />
+            <element signature="e#6010#6016#0" expanded="true" />
+            <element signature="e#6016#6022#0" expanded="true" />
+            <element signature="e#6057#6063#0" expanded="true" />
+            <element signature="e#6063#6069#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front_end_pc/share.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1815">
+          <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+          <folding>
+            <element signature="e#3352#3358#0" expanded="true" />
+            <element signature="e#3358#3364#0" expanded="true" />
+            <element signature="e#3397#3403#0" expanded="true" />
+            <element signature="e#3403#3409#0" expanded="true" />
+            <element signature="e#3444#3450#0" expanded="true" />
+            <element signature="e#3450#3456#0" expanded="true" />
+            <element signature="e#3491#3497#0" expanded="true" />
+            <element signature="e#3497#3503#0" expanded="true" />
+            <element signature="e#3538#3544#0" expanded="true" />
+            <element signature="e#3544#3550#0" expanded="true" />
+            <element signature="e#3585#3591#0" expanded="true" />
+            <element signature="e#3591#3597#0" expanded="true" />
+            <element signature="e#3632#3638#0" expanded="true" />
+            <element signature="e#3638#3644#0" expanded="true" />
+            <element signature="e#3679#3685#0" expanded="true" />
+            <element signature="e#3685#3691#0" expanded="true" />
+            <element signature="e#3726#3732#0" expanded="true" />
+            <element signature="e#3732#3738#0" expanded="true" />
+            <element signature="e#3773#3779#0" expanded="true" />
+            <element signature="e#3779#3785#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front_end_pc/more1.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front_end_pc/more.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="56" column="66" selection-start-line="56" selection-start-column="66" selection-end-line="56" selection-end-column="66" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#li#0;n#c:forEach#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
