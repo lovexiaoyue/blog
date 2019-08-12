@@ -1,9 +1,9 @@
 [
   {
-    "endpointId": "uniqueIdOfCameraEndpoint",
-    "manufacturerName": "the manufacturer name of the endpoint",
-    "modelName": "the model name of the endpoint",
-    "friendlyName": "First_c",
+    "endpointId": "3300000000011",
+    "manufacturerName": "zhidekan",
+    "modelName": "Q1pro",
+    "friendlyName": "first",
     "description": "this is the first camera",
     "displayCategories": [
       "CAMERA"
