@@ -1,6 +1,6 @@
 
 {
-  "uri": "rtsp://184.72.239.149/vod/mp4://BigBuckBunny_175k.mov",
+  "uri": "rtmp://58.200.131.2:1935/livetv/hunantv",
   "expirationTime": "2020-02-03T16:20:50.52Z",
   "idleTimeoutSeconds": 30,
   "protocol": "RTSP",
