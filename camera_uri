@@ -1,0 +1,14 @@
+
+{
+  "uri": "rtsp://184.72.239.149/vod/mp4://BigBuckBunny_175k.mov",
+  "expirationTime": "2017-02-03T16:20:50.52Z",
+  "idleTimeoutSeconds": 30,
+  "protocol": "RTSP",
+  "resolution": {
+    "width": 1920,
+    "height": 1080
+  },
+  "authorizationType": "BASIC",
+  "videoCodec": "H264",
+  "audioCodec": "AAC"
+}
