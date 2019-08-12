@@ -73,7 +73,7 @@
       },
       {
         "type": "AlexaInterface",
-        "interface": "Alexa.CameraStreamController",
+        "interface": "Alexa.PowerController",
         "version": "3"
       }
     ]
